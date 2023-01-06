@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Wang Blog
+title: Future
 subtitle: '如果你决定去了，那么旅行中最困难的部分就结束了'
 description: '平平无奇的码农'
 keywords:
@@ -105,4 +105,4 @@ theme: next
 deploy:
   type: 'git'
   repo: git@github.com:wangbiwang/wangbiwang.github.io.git
-  branch: master
+  branch: main
